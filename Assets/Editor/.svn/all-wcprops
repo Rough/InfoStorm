@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor
+END
+PostprocessBuildPlayer
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/PostprocessBuildPlayer
+END
+libTrackerWrapper.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/libTrackerWrapper.a
+END
+xcode_addFile.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/xcode_addFile.scpt
+END
+xcode_addFrameworks.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/xcode_addFrameworks.scpt
+END
+PostprocessBuildPlayer.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/PostprocessBuildPlayer.meta
+END
+XCode.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/XCode.meta
+END
+libTrackerWrapper.a.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/libTrackerWrapper.a.meta
+END
+xcode_addFile.scpt.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/xcode_addFile.scpt.meta
+END
+xcode_addFrameworks.scpt.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Editor/xcode_addFrameworks.scpt.meta
+END

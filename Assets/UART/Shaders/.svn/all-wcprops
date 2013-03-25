@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Shaders
+END
+VideoTexture.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Shaders/VideoTexture.shader.meta
+END
+DepthReverse.shader
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Shaders/DepthReverse.shader
+END
+DepthReverse.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Shaders/DepthReverse.shader.meta
+END
+VideoTexture.shader
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/uart/!svn/ver/21/trunk/Projects/TrackerWrapper/Assets/Shaders/VideoTexture.shader
+END
