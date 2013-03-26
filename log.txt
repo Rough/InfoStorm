@@ -1464,3 +1464,8 @@ Registered MarkerDetectorSimpleId
 Registered PoseEstimatorRPP
 Creating MarkerSimpleId
 Registered SingleMarkerTarget
+Loaded camera file
+Registered MarkerDetectorSimpleId
+Registered PoseEstimatorRPP
+Creating MarkerSimpleId
+Registered SingleMarkerTarget
